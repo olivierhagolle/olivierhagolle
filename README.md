@@ -1,5 +1,7 @@
 ###
-I am a researcher at CESBIO laboratory in France.  My research is focused on optical time series of remote sensing images with a high resolution. I am the author of [MAJA multi-temporal cloud detection and atmospheric correction software](https://labo.obs-mip.fr/multitemp/maccs-how-it-works/). If you look at my codes, you will quickly find that regarding this aspect, I am an amateur.
+I am a researcher at CESBIO laboratory in France and an eengineer at CNES. My research is focused on optical time series of remote sensing images with a high resolution. I am the main author of [MAJA multi-temporal cloud detection and atmospheric correction software](https://labo.obs-mip.fr/multitemp/maccs-how-it-works/). If you look at my codes, you will quickly find that regarding coding, I am an amateur, with good will...
+
+
 
 
 
